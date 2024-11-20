@@ -587,7 +587,7 @@ margin: 0 8px;
   background: #07080A;
   background: url('../images/img2.jpg');    
   background-size: cover;  };
-}
+
 #about .column-title{
 color:#fff;
 }
@@ -750,7 +750,7 @@ margin: 0;
 #business-stats h2,
 #business-stats h3,
 #business-stats h4 {
-  color: #151313;
+  color: #F9690E;
 }
 #business-stats strong {
   display: block;
